@@ -57,11 +57,11 @@ Chương trình học theo bộ sách **Kết nối tri thức với cuộc số
 
 ## Giao diện
 
-<img src="assets/learniverse-home.jpg" alt="Trang chủ" width="600">
-<img src="assets/learniverse-math.jpg" alt="Danh sách bài Toán 9" width="600">
-<img src="assets/learniverse-community.jpg" alt="Mạng xã hội" width="600">
-<img src="assets/learniverse-leaderboard.jpg" alt="Bảng xếp hạng" width="600">
-<img src="assets/learniverse-admin.jpg" alt="Trang quản trị" width="600">
+<img src="../assets/learniverse-home.jpg" alt="Trang chủ" width="600">
+<img src="../assets/learniverse-math.jpg" alt="Danh sách bài Toán 9" width="600">
+<img src="../assets/learniverse-community.jpg" alt="Mạng xã hội" width="600">
+<img src="../assets/learniverse-leaderboard.jpg" alt="Bảng xếp hạng" width="600">
+<img src="../assets/learniverse-admin.jpg" alt="Trang quản trị" width="600">
 
 
 ---
