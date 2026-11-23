@@ -92,8 +92,8 @@ LEARNIVERSE được xây dựng theo kiến trúc **tách biệt Frontend và B
 
 | Repo | Mô tả | Stack |
 |------|-------|-------|
-| **[learniverse-web](../learniverse-web)** | Frontend: Giao diện học sinh, giáo viên, admin | Next.js 16, React 19, TypeScript, Tailwind CSS 4 |
-| **[learniverse-api](../learniverse-api)** | Backend: API, logic nghiệp vụ, chấm bài | FastAPI, Python 3.14, PostgreSQL, SQLAlchemy 2 |
+| **[learniverse-web](https://github.com/LEARN-IVERSE/learniverse-web)** | Frontend: Giao diện học sinh, giáo viên, admin | Next.js 16, React 19, TypeScript, Tailwind CSS 4 |
+| **[learniverse-api](https://github.com/LEARN-IVERSE/learniverse-api)** | Backend: API, logic nghiệp vụ, chấm bài | FastAPI, Python 3.14, PostgreSQL, SQLAlchemy 2 |
 
 ---
 
